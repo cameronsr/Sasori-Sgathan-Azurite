@@ -27,8 +27,8 @@ mydat <- cancer_rates
 ui <- fluidPage(
   
   # Application title
-  titlePanel("Sasori Sgathan (Azurite)",
-             "California Cancer Incidence & Mortality Rates, 2011-2015: Multiple Linear Regression"),
+  titlePanel("Sasori Sgathan (Azurite)"),
+             h3("California Cancer Incidence & Mortality Rates, 2011-2015: Multiple Linear Regression"),
   
   # Sidebar with input options
   sidebarLayout(
@@ -85,7 +85,7 @@ ui <- fluidPage(
                   "Population Range",              # Display Label
                   min = 150000,                    # Lowest Value of Range
                   max = 193000000,                 # Highest Value of Range
-                  value = c(250000, 9000000),      # Pre-selected values
+                  value = c(250000, 193000000),    # Pre-selected values
                   step = 150000)                   # Size per step change
 
     ),
