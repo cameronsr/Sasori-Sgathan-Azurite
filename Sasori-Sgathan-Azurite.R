@@ -47,10 +47,10 @@ ui <- fluidPage(
                   multiple = FALSE,
                   choices = list("Incidence_Population_at_Risk","Mortality_Population_at_Risk")),   # Specify choices
       
-      # Select Conference from Dropdown Menu
+      # Select Region from Dropdown Menu
       selectInput("region",                           # Name of input
                   "Select Region",                    # Display Label
-                  choices = r("All" = "all",          # Available choices in the dropdown
+                  choices = c("All" = "all",          # Available choices in the dropdown
                               "State" = "STATE",
                               "North" = "North",
 							                "Bay Area" = "Bay Area",
