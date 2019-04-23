@@ -1,0 +1,49 @@
+,County,Region,Population,Incidence_Population_at_Risk,Incidence_Cases,Incidence_Crude_Rate,Incidence_Age-adjusted_Rate,Incidence_95per_Confidence_Interval_Lower_Limit,Incidence_95per_Confidence_Interval-Upper_Limit,Mortality_Population_at_Risk,Mortality_Deaths,Mortality_Crude_Rate,Mortality_Age-adjusted_Rate,Mortality_95per_Confidence_Interval-Lower_Limit,Mortality_95per_Confidence_Interval-Upper_Limit,,Combined Invasive Cancer Rates and Cancer Mortality Rates by County in California
+1,Shasta,North,894711,894711,5772,645.12,472.38,459.77,485.27,894711,2257,252.26,178.16,170.71,185.87,,"All Sites, 2011-2015."
+2,Butte,North,1112822,1112822,6241,560.83,452.44,440.85,464.27,1112822,2459,220.97,171.64,164.72,178.8,,
+3,Placer,Sacramento,1831401,1831401,10480,572.24,448.17,439.44,457.04,1831401,3536,193.08,146.72,141.85,151.72,,"Note (1): Rates generated on April 16, 2019."
+4,Colusa - Glenn - Tehama,North,562885,562885,3007,534.21,441.72,425.72,458.19,562885,1211,215.14,177.41,167.42,187.88,,"Note (2): All rates are per 100,000. Rates are age-adjusted to the 2000 U.S. Standard Million Population."
+5,Napa,North,701473,701473,3912,557.68,439.35,425.35,453.72,701473,1443,205.71,157.57,149.37,166.13,,"Note (3): Due to population size, some geographically close counties were combined for purposes of count in the data set these rates were generated from."
+6,Marin,Bay Area,1291747,1291747,7853,607.94,431.86,421.97,441.95,1291747,2392,185.18,126.81,121.63,132.17,,Note (4): Incidence rates are based on Jan 2018 data. Excludes cases reported by the Department of Veterans Affairs.
+7,El Dorado,Sacramento,910466,910466,5314,583.66,431.52,419.44,443.88,910466,1750,192.21,144.78,137.86,151.99,,Note (5): Mortality rates are based on 1988-2015 death master files.
+8,Del Norte - Humboldt,North,814106,814106,4136,508.04,431.09,417.56,444.96,814106,1631,200.34,169.6,161.21,178.33,,
+9,Sacramento,Sacramento,7329161,7329161,32822,447.83,430.95,426.21,435.72,7329161,12261,167.29,163.6,160.66,166.57,,Incidence Rate Citations
+10,Solano,Sacramento,2128767,2128767,10065,472.81,430.05,421.45,438.78,2128767,3810,178.98,168.35,162.92,173.92,,"MLA: Age-Adjusted Invasive Cancer Incidence Rates by County in California, 2011 - 2015. Based on Jan 2018 data. Excludes cases reported by the Department of Veterans Affairs. Cancer-Rates.info. Accessed on Apr 16, 2019. California Cancer Registry. <http://cancer-rates.info/ca/>"
+11,San Luis Obispo,Tri-County,1382585,1382585,7515,543.55,427.76,417.75,437.95,1382585,2557,184.94,139.76,134.24,145.47,,"APA: Age-Adjusted Invasive Cancer Incidence Rates by County in California, 2011 - 2015. Based on Jan 2018 data. Excludes cases reported by the Department of Veterans Affairs. California Cancer Registry. Cancer-Rates.info. Retrieved Apr 16, 2019, from http://cancer-rates.info/ca/"
+12,Sonoma,North,2475390,2475390,13233,534.58,425.7,418.2,433.31,2475390,4711,190.31,150.94,146.52,155.47,,"Chicago: Age-Adjusted Invasive Cancer Incidence Rates by County in California, 2011 - 2015. Based on Jan 2018 data. Excludes cases reported by the Department of Veterans Affairs. California Cancer Registry. Cancer-Rates.info. (accessed Apr 16, 2019)."
+13,Contra Costa,Bay Area,5480340,5480340,26307,480.02,424.98,419.75,430.26,5480340,8957,163.44,146.41,143.33,149.53,,
+14,Santa Barbara,Tri-County,2179249,2179249,9805,449.93,420.12,411.68,428.7,2179249,3385,155.33,139.93,135.16,144.82,,Mortality Rate Citations
+15,Sierra - Yuba,Sacramento,382344,382344,1558,407.49,416.91,395.93,438.7,382344,634,165.82,175.59,161.86,190.15,,"MLA: Age-Adjusted Cancer Mortality Rates by County in California, 2011 - 2015. Based on 1988-2015 death master files. Cancer-Rates.info. Accessed on Apr 16, 2019. California Cancer Registry. <http://cancer-rates.info/ca/>"
+16,Santa Cruz,Santa Clara,1346392,1346392,6060,450.09,412.69,401.89,423.72,1346392,2000,148.55,139.36,133.06,145.89,,"APA: Age-Adjusted Cancer Mortality Rates by County in California, 2011 - 2015. Based on 1988-2015 death master files. California Cancer Registry. Cancer-Rates.info. Retrieved Apr 16, 2019, from http://cancer-rates.info/ca/"
+17,Lake,North,320788,320788,1909,595.1,412.54,393.22,432.65,320788,932,290.53,195.17,182.43,208.68,,"Chicago: Age-Adjusted Cancer Mortality Rates by County in California, 2011 - 2015. Based on 1988-2015 death master files. California Cancer Registry. Cancer-Rates.info. (accessed Apr 16, 2019)."
+18,Alpine - Amador - Calaveras,Sacramento,414404,414404,2850,687.73,411.78,395.62,428.54,414404,1136,274.13,158.56,149.07,168.62,,
+19,Ventura,Tri-County,4204165,4204165,18620,442.89,410.74,404.75,416.8,4204165,6344,150.9,142.02,138.49,145.62,,
+20,Yolo,Sacramento,1036600,1036600,3883,374.59,405.71,392.78,418.96,1036600,1414,136.41,150.58,142.69,158.8,,
+21,San Mateo,Bay Area,3743657,3743657,17632,470.98,404.82,398.76,410.96,3743657,5790,154.66,130.74,127.33,134.22,,
+22,San Diego,San Diego,16115480,16115480,66530,412.83,402.55,399.45,405.67,16115480,24707,153.31,150.21,148.31,152.13,,
+23,Nevada,Sacramento,492849,492849,3156,640.36,402.45,387.44,417.96,492849,1211,245.71,148.08,139.46,157.19,,
+24,Stanislaus,Central,2636837,2636837,10353,392.63,399.79,392.01,407.69,2636837,4270,161.94,168.23,163.15,173.43,,
+25,Siskiyou - Trinity,North,286338,286338,1803,629.68,399.74,380.02,420.33,286338,785,274.15,167.77,155.61,180.77,,
+26,San Joaquin,Sacramento,3542770,3542770,13676,386.03,399.1,392.32,405.97,3542770,5603,158.15,168.14,163.69,172.68,,
+27,San Francisco,Bay Area,4203816,4203816,19365,460.65,398.92,393.2,404.7,4203816,6868,163.38,138.97,135.64,142.37,,
+28,San Benito,Santa Clara,287787,287787,1117,388.13,396.9,373.26,421.63,287787,369,128.22,136.39,122.46,151.45,,
+29,Mariposa - Tuolumne,Central,359343,359343,2310,642.84,396.8,379.73,414.54,359343,934,259.92,153.69,143.67,164.37,,
+30,Mendocino,North,437722,437722,2340,534.59,396.47,379.68,413.86,437722,976,222.97,161.68,151.29,172.66,,
+31,Orange,Orange County,15580344,15580344,65214,418.57,395.27,392.2,398.36,15580344,22482,144.3,137.78,135.96,139.62,,
+32,San Bernardino,Desert Sierra,10473844,10473844,36910,352.4,391.94,387.85,396.07,10473844,14372,137.22,163.17,160.45,165.93,,
+33,Kern,Central,4328678,4328678,14572,336.64,391.73,385.24,398.29,4328678,5504,127.15,157.3,153.08,161.61,,
+34,Riverside,Desert Sierra,11490160,11490160,46032,400.62,390.56,386.97,394.18,11490160,17591,153.1,150.47,148.24,152.73,,
+35,Monterey,Santa Clara,2142207,2142207,8027,374.71,385.79,377.23,394.5,2142207,2832,132.2,137.43,132.32,142.69,,
+36,Lassen - Modoc - Plumas,North,303975,303975,1543,507.61,384.74,365.1,405.25,303975,506,166.46,127.22,116.1,139.21,,
+37,Imperial,San Diego,891031,891031,3268,366.77,384.62,371.42,398.17,891031,1015,113.91,120.99,113.6,128.73,,
+38,Sutter,Sacramento,476237,476237,1996,419.12,383.67,366.82,401.1,476237,805,169.03,151.93,141.54,162.89,,
+39,Alameda,Bay Area,7924914,7924914,31716,400.21,381.93,377.65,386.26,7924914,11292,142.49,140.28,137.65,142.96,,
+40,Santa Clara,Santa Clara,9340747,9340747,36331,388.95,381.06,377.09,385.05,9340747,12044,128.94,129.57,127.24,131.94,,
+41,Madera,Central,765934,765934,2907,379.54,378.4,364.55,392.64,765934,1077,140.61,143.51,134.95,152.47,,
+42,Inyo - Mono,Desert Sierra,162593,162593,808,496.95,377.75,351.18,405.93,162593,231,142.07,107.7,93.95,123.05,,
+43,Los Angeles,Los Angeles County,50191941,50191941,190264,379.07,375.47,373.76,377.19,50191941,70667,140.79,142.06,140.99,143.12,,
+44,Fresno,Central,4783745,4783745,16474,344.37,375.29,369.48,381.16,4783745,6346,132.66,146.97,143.32,150.69,,
+45,Merced,Central,1319426,1319426,4260,322.87,372.2,360.94,383.72,1319426,1761,133.47,158.83,151.39,166.52,,
+46,Tulare,Central,2270164,2270164,7096,312.58,360.86,352.37,369.49,2270164,2858,125.89,149.93,144.4,155.61,,
+47,Kings,Central,754991,754991,2141,283.58,348.1,333.15,363.52,754991,880,116.56,154.23,143.99,164.97,,
+48,STATE,STATE,192107326,192107326,789183,410.8,395.22,394.33,396.11,192107326,288596,150.23,146.57,146.02,147.11,,
